@@ -1,3 +1,4 @@
+#q1
 marks=int(input("enter marks: "))
 if marks<25:
     grade="F"
