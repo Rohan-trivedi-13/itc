@@ -1,3 +1,4 @@
+#q2
 year=int(input("enter year: "))
 if year<0:
     print("invalid")
