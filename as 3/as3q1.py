@@ -1,3 +1,4 @@
+#q1
 str1=input("Enter string: ")
 lst1=list(str1.split(" "))
 lst2=list(set(lst1))
