@@ -1,3 +1,4 @@
+#q2
 year = int(input("Input a year: "))
 
 if year<1800 or year>2025:
